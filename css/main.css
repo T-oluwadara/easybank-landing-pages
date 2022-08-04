@@ -652,6 +652,18 @@ video {
   height: 2rem;
 }
 
+.h-56 {
+  height: 14rem;
+}
+
+.h-36 {
+  height: 9rem;
+}
+
+.h-full {
+  height: 100%;
+}
+
 .w-16 {
   width: 4rem;
 }
@@ -748,6 +760,10 @@ video {
 
 .self-end {
   align-self: flex-end;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }
 
 .rounded-full {
